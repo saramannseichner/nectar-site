@@ -21,11 +21,12 @@ body {
 }
 
 h1 {
-  width: 400px;
+  width: 500px;
   text-align: center;
   display: block;
   margin: auto;
   font-weight: lighter;
+  padding: 10px;
 }
 
 h1,
