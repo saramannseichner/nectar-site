@@ -30,6 +30,12 @@ h1 {
   padding: 15px;
 }
 
+@media only screen and (max-width: 600px) {
+  h1{
+  width: 300px;
+  }
+}
+
 h1,
 h2,
 h3,
