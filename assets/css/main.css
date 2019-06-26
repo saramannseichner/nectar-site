@@ -36,6 +36,12 @@ h1 {
   }
 }
 
+@media only screen and (max-width: 600px) {
+  h1{
+  width: 300px;
+  }
+}
+
 h1,
 h2,
 h3,
@@ -117,6 +123,12 @@ th {
 .container {
   padding-top: 120px;
  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .container{
+  padding-top: 60px;
+  }
 }
 
 h1 {
